@@ -17,5 +17,3 @@ CREATE TABLE layoffs (
 	country VARCHAR(50), 
 	funds_raised_millions NUMERIC(12, 2) DEFAULT NULL
 );
-
-SELECT * FROM layoffs;
